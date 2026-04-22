@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "blockname",
+  "version": "1.0.0",
+  "name": "Block Name",
+  "description": "Affiche des informations avancées sur le bloc regardé (outil, enchantements, debug, scan solo, etc.).",
+  "authors": [
+    "Dominique"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/blockname/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.blockname.BlockNameMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.20",
+    "java": ">=17"
+  }
+}
