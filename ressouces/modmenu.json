@@ -1,6 +1,11 @@
 {
   "modmenu": {
     "description": "Options et configuration du mod Block Name.",
-    "parent": "blockname"
+    "parent": "blockname",
+    "badges": [ "client" ],
+    "links": {
+      "modmenu.config": "blockname"
+    }
   }
 }
+
