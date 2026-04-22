@@ -11,5 +11,9 @@
   "blockname.config.compact": "Mode compact",
   "blockname.config.debug": "Mode debug",
   "blockname.config.enchant": "Afficher les enchantements",
-  "blockname.config.scan": "Activer le scan"
+  "blockname.config.scan": "Activer le scan",
+  "blockname.config.fadein": "Vitesse Fade-in",
+  "blockname.config.fadeout": "Vitesse Fade-out",
+
+  "modmenu.descriptionTranslation.blockname": "Affiche des informations avancées sur les blocs (outil, enchantements, debug, scan solo, etc.)"
 }
