@@ -1,0 +1,15 @@
+{
+  "key.blockname.toggleScan": "Activer/Désactiver le Scan",
+  "category.blockname": "Block Name",
+
+  "blockname.ui.scan_disabled": "Scan désactivé en multijoueur",
+  "blockname.ui.scan_enabled": "Scan activé",
+  "blockname.ui.scan_off": "Scan désactivé",
+
+  "blockname.config.title": "Configuration Block Name",
+  "blockname.config.theme": "Thème",
+  "blockname.config.compact": "Mode compact",
+  "blockname.config.debug": "Mode debug",
+  "blockname.config.enchant": "Afficher les enchantements",
+  "blockname.config.scan": "Activer le scan"
+}
